@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JustMuath1
-- 👀 I’m interested in web development
+- 👀 I’m interested in web and mobile development and Data science.
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via twitter @muath.online 
+- 📫 How to reach me via twitter @muath_online 
 
 <!---
 JustMuath1/JustMuath1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
